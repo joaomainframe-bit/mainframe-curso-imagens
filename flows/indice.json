@@ -1,0 +1,457 @@
+[
+  {
+    "flow": "welcome",
+    "caixa": "1",
+    "titulo": "Introduction + Discount",
+    "ficheiro": "welcome-1-introduction-discount-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "1",
+    "titulo": "Introduction + Discount",
+    "ficheiro": "welcome-1-introduction-discount-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "1",
+    "titulo": "Introduction + Discount",
+    "ficheiro": "welcome-1-introduction-discount-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "1",
+    "titulo": "Introduction + Discount",
+    "ficheiro": "welcome-1-introduction-discount-4.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "2",
+    "titulo": "Best Sellers",
+    "ficheiro": "welcome-2-best-sellers-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "2",
+    "titulo": "Best Sellers",
+    "ficheiro": "welcome-2-best-sellers-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "2",
+    "titulo": "Best Sellers",
+    "ficheiro": "welcome-2-best-sellers-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "2",
+    "titulo": "Best Sellers",
+    "ficheiro": "welcome-2-best-sellers-4.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "3",
+    "titulo": "Brand History",
+    "ficheiro": "welcome-3-brand-history-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "3",
+    "titulo": "Brand History",
+    "ficheiro": "welcome-3-brand-history-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "3",
+    "titulo": "Brand History",
+    "ficheiro": "welcome-3-brand-history-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "3",
+    "titulo": "Brand History",
+    "ficheiro": "welcome-3-brand-history-4.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "4",
+    "titulo": "Why choose us?",
+    "ficheiro": "welcome-4-why-choose-us-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "4",
+    "titulo": "Why choose us?",
+    "ficheiro": "welcome-4-why-choose-us-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "4",
+    "titulo": "Why choose us?",
+    "ficheiro": "welcome-4-why-choose-us-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "5",
+    "titulo": "Social Proof",
+    "ficheiro": "welcome-5-social-proof-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "5",
+    "titulo": "Social Proof",
+    "ficheiro": "welcome-5-social-proof-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "5",
+    "titulo": "Social Proof",
+    "ficheiro": "welcome-5-social-proof-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "6",
+    "titulo": "Last Chance",
+    "ficheiro": "welcome-6-last-chance-1.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "6",
+    "titulo": "Last Chance",
+    "ficheiro": "welcome-6-last-chance-2.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "welcome",
+    "caixa": "6",
+    "titulo": "Last Chance",
+    "ficheiro": "welcome-6-last-chance-3.jpg",
+    "pagina": 21
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-1.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-2.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-3.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-4.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-5.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "1",
+    "titulo": "Lost In Choices?",
+    "ficheiro": "site-1-lost-in-choices-6.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "site",
+    "caixa": "2",
+    "titulo": "Reminder of welcome discount",
+    "ficheiro": "site-2-reminder-of-welcome-discount-1.jpg",
+    "pagina": 23
+  },
+  {
+    "flow": "browse",
+    "caixa": "1",
+    "titulo": "Simple Nudge",
+    "ficheiro": "browse-1-simple-nudge-1.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "browse",
+    "caixa": "1",
+    "titulo": "Simple Nudge",
+    "ficheiro": "browse-1-simple-nudge-2.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "browse",
+    "caixa": "2",
+    "titulo": "Social Proof",
+    "ficheiro": "browse-2-social-proof-1.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "browse",
+    "caixa": "2",
+    "titulo": "Social Proof",
+    "ficheiro": "browse-2-social-proof-2.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "browse",
+    "caixa": "3",
+    "titulo": "Still thinking about it?",
+    "ficheiro": "browse-3-still-thinking-about-it-1.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "browse",
+    "caixa": "3",
+    "titulo": "Still thinking about it?",
+    "ficheiro": "browse-3-still-thinking-about-it-2.jpg",
+    "pagina": 25
+  },
+  {
+    "flow": "cart",
+    "caixa": "1",
+    "titulo": "Nudge",
+    "ficheiro": "cart-1-nudge-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "1",
+    "titulo": "Nudge",
+    "ficheiro": "cart-1-nudge-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "1",
+    "titulo": "Nudge",
+    "ficheiro": "cart-1-nudge-3.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "1",
+    "titulo": "Nudge",
+    "ficheiro": "cart-1-nudge-4.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "2",
+    "titulo": "Social Proof",
+    "ficheiro": "cart-2-social-proof-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "2",
+    "titulo": "Social Proof",
+    "ficheiro": "cart-2-social-proof-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "3",
+    "titulo": "Last Chance",
+    "ficheiro": "cart-3-last-chance-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "3",
+    "titulo": "Last Chance",
+    "ficheiro": "cart-3-last-chance-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "3",
+    "titulo": "Last Chance",
+    "ficheiro": "cart-3-last-chance-3.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "4",
+    "titulo": "What happened?",
+    "ficheiro": "cart-4-what-happened-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "4",
+    "titulo": "What happened?",
+    "ficheiro": "cart-4-what-happened-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "4",
+    "titulo": "What happened?",
+    "ficheiro": "cart-4-what-happened-3.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "5",
+    "titulo": "Flash Discount Opener",
+    "ficheiro": "cart-5-flash-discount-opener-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "5",
+    "titulo": "Flash Discount Opener",
+    "ficheiro": "cart-5-flash-discount-opener-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "5",
+    "titulo": "Flash Discount Opener",
+    "ficheiro": "cart-5-flash-discount-opener-3.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "5",
+    "titulo": "Flash Discount Opener",
+    "ficheiro": "cart-5-flash-discount-opener-4.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "6",
+    "titulo": "Discount Closer",
+    "ficheiro": "cart-6-discount-closer-1.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "cart",
+    "caixa": "6",
+    "titulo": "Discount Closer",
+    "ficheiro": "cart-6-discount-closer-2.jpg",
+    "pagina": 27
+  },
+  {
+    "flow": "pos",
+    "caixa": "1",
+    "titulo": "Thank You",
+    "ficheiro": "pos-1-thank-you-1.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "1",
+    "titulo": "Thank You",
+    "ficheiro": "pos-1-thank-you-2.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "1",
+    "titulo": "Thank You",
+    "ficheiro": "pos-1-thank-you-3.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "1",
+    "titulo": "Thank You",
+    "ficheiro": "pos-1-thank-you-4.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2A",
+    "titulo": "How to Use the Product",
+    "ficheiro": "pos-2A-how-to-use-the-product-1.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2A",
+    "titulo": "How to Use the Product",
+    "ficheiro": "pos-2A-how-to-use-the-product-2.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2A",
+    "titulo": "How to Use the Product",
+    "ficheiro": "pos-2A-how-to-use-the-product-3.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2A",
+    "titulo": "How to Use the Product",
+    "ficheiro": "pos-2A-how-to-use-the-product-4.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2B",
+    "titulo": "Upsell to VIP List (Or Just Upsell )",
+    "ficheiro": "pos-2B-upsell-to-vip-list-or-just-upsell-1.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2B",
+    "titulo": "Upsell to VIP List (Or Just Upsell )",
+    "ficheiro": "pos-2B-upsell-to-vip-list-or-just-upsell-2.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "2B",
+    "titulo": "Upsell to VIP List (Or Just Upsell )",
+    "ficheiro": "pos-2B-upsell-to-vip-list-or-just-upsell-3.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "3A",
+    "titulo": "Personal Founder Check In",
+    "ficheiro": "pos-3A-personal-founder-check-in-1.jpg",
+    "pagina": 29
+  },
+  {
+    "flow": "pos",
+    "caixa": "3A",
+    "titulo": "Personal Founder Check In",
+    "ficheiro": "pos-3A-personal-founder-check-in-2.jpg",
+    "pagina": 29
+  }
+]
